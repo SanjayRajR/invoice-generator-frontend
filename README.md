@@ -31,14 +31,13 @@ And that’s exactly what I built — a lightweight ReactJS app that does just t
 - **ReactJS** – Frontend framework
 - **PapaParse** – For reading and parsing CSV files
 - **@react-pdf/renderer** – For dynamically generating PDF invoices
-- **TailwindCSS (optional)** – For quick styling (if included)
 
 ## 📂 Sample CSV Format
 
 Here's what the CSV is expected to look like:
 
 ```csv
-Restaurant Name,Employee Name,Employee ID,Month,Salary
-Spice Villa,Ravi Kumar,EMP001,April 2025,18000
-Spice Villa,Sunita Sharma,EMP002,April 2025,20000
-Tandoori Treats,Amit Verma,EMP003,April 2025,17000
+Sl No, Restaurant Name, Address, Name,Mobile No,Month,Payment Mode, Amount
+1, Spice Villa,Bengaluru,Ravi Kumar,1234567890,April,UPI,18000
+2, Spice Villa,Bengaluru,Sunitha Kumar,1234567890,April,UPI,20000
+1, Tandoori Treats,Bengaluru,Hemanth Kumar,1234567890,April,UPI,18000
