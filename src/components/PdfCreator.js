@@ -102,7 +102,7 @@ const PdfCreator = ({ employeeDetails }) => {
                             ...styles.employeeDetails,
                             borderBottom: 'none'
                         }}>
-                            Payment Date : 
+                            Payment Date : <Text style={{ fontWeight: 600 }}> {employee["Payment Date"]} </Text>
                         </Text>
                     </View>
                     <View style={{
