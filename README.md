@@ -37,7 +37,7 @@ And that’s exactly what I built — a lightweight ReactJS app that does just t
 Here's what the CSV is expected to look like:
 
 ```csv
-Sl No, Restaurant Name, Address, Name,Mobile No,Month,Payment Mode, Amount
-1, Spice Villa,Bengaluru,Ravi Kumar,1234567890,April,UPI,18000
-2, Spice Villa,Bengaluru,Sunitha Kumar,1234567890,April,UPI,20000
-1, Tandoori Treats,Bengaluru,Hemanth Kumar,1234567890,April,UPI,18000
+Sl No,Restaurant Name,Address,Name,Mobile No,Month,Payment Mode,Amount,Payment Date
+1, Spice Villa,Bengaluru,Ravi Kumar,1234567890,April,UPI,18000,29-04-2025
+2, Spice Villa,Bengaluru,Sunitha Kumar,1234567890,April,UPI,20000,30-04-2025
+1, Tandoori Treats,Bengaluru,Hemanth Kumar,1234567890,April,UPI,18000,30-05-2025
